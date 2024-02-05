@@ -194,6 +194,9 @@ replace (
 	// cosmos keyring
 	github.com/99designs/keyring => github.com/cosmos/keyring v1.2.0
 
+	// iavl patch
+	github.com/cosmos/cosmos-sdk => github.com/reecepbcups/cosmos-sdk v0.47.5-iavl
+
 	// support concurrency for iavl
 	github.com/cosmos/iavl => github.com/cosmos/iavl v0.20.1
 
